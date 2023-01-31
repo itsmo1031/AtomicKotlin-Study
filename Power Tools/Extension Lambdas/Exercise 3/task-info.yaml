@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 500
-    length: 37
+  - offset: 586
+    length: 39
     placeholder_text: |-
       fun cleanser(): Cleanser {
         TODO()
@@ -16,8 +16,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: PGZ0ozqAeVRGWLmEvEGRv8lO1AydBfHtGPfviKjxK4V7B5dG1pe/fLdorKB5T7bnovzmaaVd7BSxf0A9gB22skDKyq8DJ51tbYlPRlKSusy7yONbf/19s2B9D5aH3vOKozVEUsVroAwCMFWoMcFv6ieCrq5how2I1IsFpTvhIx+UR49e6zPJQ3CAxWQf1Q1HOG6M6Ez/LbfEugl0pRqIDGXeuzgiq7ka7xcDQtb+yXk=
-  - offset: 539
-    length: 47
+  - offset: 627
+    length: 49
     placeholder_text: |-
       fun sprayCleanser(): SprayCleanser {
         TODO()
@@ -29,8 +29,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: mQU/Pe30RyQy6CnvcvyMW+qKBAFGlgimrWgnQYmp2mXbm4hQGYiP5VDYbYamoLjBAJS120x8STDjLa8XtIg3CbepK+/lW7VugOP37vMWlU0RGMG7DHf6vyms0hChbYTxvN5lOdoN7CJCsAzvPgpixpeFJJ6UpH+IQ8qRr5t1pmou5TDn46Al3AIxvaL2TOv1v3MbsPBcTF5FaWUodhxEAVBwF3zvcEwuBEfJC45UeURgbWqgVsAptqqb1l4CpUgsVHZ+n08S2LE1+dYHFDoJN8jjnq6zBbAfr7wufXWK+pc=
-  - offset: 601
-    length: 349
+  - offset: 691
+    length: 413
     placeholder_text: |-
       /*
         val c: Cleanser = cleanser {

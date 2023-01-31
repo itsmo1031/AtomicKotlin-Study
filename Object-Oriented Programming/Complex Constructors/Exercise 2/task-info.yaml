@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 95
+  - offset: 96
     length: 14
     placeholder_text: class SumChars
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: a7wlqZXPsz5rrgk3hpZErTd8yHNpitEq589G8iVFFKtV8cTKv7ino8hrxHoRi7rYurnPYu0VAFcUvpKSUXYJT+MH7oArTBxn+tMH4Caic1VN6L0xNJG827SjIus6zQFHRrRvDFbdTRd5A7hxD/Luh5chR4uIkZ3x0jOLRC0TvNg=
-  - offset: 126
-    length: 31
+  - offset: 127
+    length: 33
     placeholder_text: // SumChars("What?").sum eq 467
     initial_state:
       length: 31

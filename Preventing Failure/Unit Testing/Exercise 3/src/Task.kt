@@ -1,9 +1,10 @@
 // Tests/unittesting/UnitTestingSoln3.kt
 package unitTestingExercise3
+
 import classdelegation.SpaceShipControls
 import kotlin.test.*
 
 infix fun <T> T.aeq(actual: T) =
-  assertEquals(this, actual)
+    assertEquals(this, actual)
 
 // TODO

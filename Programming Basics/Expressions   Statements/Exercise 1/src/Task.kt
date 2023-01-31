@@ -2,6 +2,6 @@
 package expressionsAndStatementsExercise1
 
 fun main() {
-  val res = println(1)
-  println(res)
+    val res = println(1)
+    println(res)
 }

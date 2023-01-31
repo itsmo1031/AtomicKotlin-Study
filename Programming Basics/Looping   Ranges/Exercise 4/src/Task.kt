@@ -2,16 +2,16 @@
 package loopingAndRangesExercise4
 
 fun showHalfTriangle(n: Int) {
-  for (i in 1..n){
-    repeat(i){
-      print('#')
+    for (i in 1..n) {
+        repeat(i) {
+            print('#')
+        }
+        println()
     }
-    println()
-  }
 }
 
 fun main() {
-  showHalfTriangle(4)
+    showHalfTriangle(4)
 }
 /* Output:
 #

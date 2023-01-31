@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 404
-    length: 6
+  - offset: 415
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: M13UuSplQIAa8+Sr6gFX0Q==
-  - offset: 437
-    length: 6
+  - offset: 450
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: PUfK/NLBLX84P1BIEYXuc1Tiqu7/WsNK/furKlenLYw=
-  - offset: 469
-    length: 6
+  - offset: 484
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: PUfK/NLBLX84P1BIEYXuc1ySqVmKSm9+l1oicvg4qhkH2JVy07S40C/tUjqCZ2AJ
-  - offset: 550
+  - offset: 573
     length: 4
     placeholder_text: TODO
     initial_state:

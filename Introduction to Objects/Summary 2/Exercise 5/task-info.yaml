@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 49
-    length: 78
+    length: 82
     placeholder_text: "fun va1() {}"
     initial_state:
       length: 12
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: kV8rliBFtIt9tiNiw03V5Ful3rsn0hT/me2zQ5LnS58MBWsGVqhEozuZAYENm7x/gBdkxjlp4H25uI1k7z2S6by1CcPXT7OIkYn0qj2rgEXB3Q0/VMfFonm3IUz7kayn
-  - offset: 129
-    length: 63
+  - offset: 133
+    length: 64
     placeholder_text: "fun va2() {}"
     initial_state:
       length: 12

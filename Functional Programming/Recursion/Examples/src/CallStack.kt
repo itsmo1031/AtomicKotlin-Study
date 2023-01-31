@@ -2,11 +2,11 @@
 package recursion
 
 fun illegalState() {
-  // throw IllegalStateException()
+    // throw IllegalStateException()
 }
 
 fun fail() = illegalState()
 
 fun main() {
-  fail()
+    fail()
 }

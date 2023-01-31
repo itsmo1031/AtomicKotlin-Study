@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 88
+  - offset: 89
     length: 13
     placeholder_text: class Failure
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 768kjuRvDeFQYT4Lyihfxoukk8lFRCCD0Yuu6RuL1mDXpcFoYCmfxuERGGD9GOqo
-  - offset: 138
-    length: 6
+  - offset: 139
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: dVn3Qg2mvjsMruEsoWqVrvZKGGGjoH/+jwZ9whXkvgY=
-  - offset: 179
-    length: 6
+  - offset: 182
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -33,8 +33,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: aORSdI6LCon0Xry1hK8SlFye0GvhkyoVaITjz/53+1V6WSLmngTbJ0s4uc3SUCW8
-  - offset: 218
-    length: 6
+  - offset: 223
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6

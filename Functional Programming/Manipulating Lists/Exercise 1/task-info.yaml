@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 142
-    length: 16
+  - offset: 143
+    length: 18
     placeholder_text: TODO("zip(???)")
     initial_state:
       length: 16

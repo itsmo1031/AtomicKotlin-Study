@@ -2,26 +2,26 @@
 package constrainingVisibilityExercise5
 
 fun printSum(x: Int) {
-  if (check(x)) return
-  println((0..x).sum())
+    if (check(x)) return
+    println((0..x).sum())
 }
 
 fun printAverage(x: Int) {
-  if (check(x)) return
-  println((0..x).average())
+    if (check(x)) return
+    println((0..x).average())
 }
 
 private fun check(x: Int): Boolean {
-  if (x <= 0) {
-    println("Incorrect input: $x should be positive")
-    return true
-  }
-  return false
+    if (x <= 0) {
+        println("Incorrect input: $x should be positive")
+        return true
+    }
+    return false
 }
 
 fun main() {
-  printSum(-10)
-  printAverage(-10)
+    printSum(-10)
+    printAverage(-10)
 }
 /* Output:
 Incorrect input: -10 should be positive

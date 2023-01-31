@@ -1,17 +1,22 @@
 // NamedAndDefaultArgs/Task2.kt
 package namedAndDefaultArgumentsExercise2
+
 import atomictest.eq
 
-class SimpleTime() {
-  fun toSecondOfDay(): Int =
-    TODO()
+class SimpleTime(
+    private val hours: Int = 0,
+    private val minutes: Int = 0,
+    private val seconds: Int = 0,
+    private val nanoseconds: Int = 0
+) {
+    fun toSecondOfDay(): Int =
+        (hours * 60 + minutes) * 60 + seconds
 
-  fun toNanoOfDay(): Long =
-    TODO()
+    fun toNanoOfDay(): Long =
+        toSecondOfDay() * 1000000000L + nanoseconds
 }
 
 fun main() {
-/*
     val noon = SimpleTime(12)
     noon.toSecondOfDay() eq 12 * 60 * 60
 
@@ -23,5 +28,4 @@ fun main() {
 
     val halfPastSeven = SimpleTime(hours = 6, minutes = 30)
     halfPastSeven.toNanoOfDay() eq (6 * 60 + 30) * 60 * 1000000000L
-*/
 }

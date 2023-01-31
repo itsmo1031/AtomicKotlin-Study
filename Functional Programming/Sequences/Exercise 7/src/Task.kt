@@ -2,9 +2,9 @@
 package sequencesExercise7
 
 fun oddWithoutDigitOne(): Sequence<Int> {
-  TODO()
+    TODO()
 }
 
 fun main() {
-  TODO()
+    TODO()
 }

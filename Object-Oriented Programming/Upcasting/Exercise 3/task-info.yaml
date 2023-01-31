@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 284
+  - offset: 293
     length: 10
     placeholder_text: class Hero
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: z33c/VoLOO2OAVZdOXvNRXYGp9isAm0RW4X08gjkEqG2R6aejMsJerJC2Zfkj8+St7G5rhsRblAIqEXE+RKpTPbz/Q6FTzpj/X/IKafs+nMXPVCKX0INestFb6nxzqhUL2GyTkx2KVyk+hSDDfj5djRl+IXF2KXBzhcgKCB9H6W3kVwDZq2lEyBf2dsKCjhI
-  - offset: 325
-    length: 6
+  - offset: 334
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: NWFErNi+YCwgztnXDxNugbyCzotJ5zf32F7eRjiaCGI=
-  - offset: 363
-    length: 6
+  - offset: 374
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -33,8 +33,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: oJ/Va1feVMPVnmRouAON4w==
-  - offset: 398
-    length: 6
+  - offset: 411
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -43,8 +43,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 8Z7K71weElZ2fCpjwsYAFA==
-  - offset: 445
-    length: 6
+  - offset: 460
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -53,8 +53,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: NWFErNi+YCwgztnXDxNugbyCzotJ5zf32F7eRjiaCGI=
-  - offset: 468
-    length: 175
+  - offset: 485
+    length: 203
     placeholder_text: |-
       /*
         val h = Hero()

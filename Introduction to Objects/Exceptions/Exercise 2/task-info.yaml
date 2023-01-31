@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 99
-    length: 45
+  - offset: 100
+    length: 47
     placeholder_text: "fun abort(s: String) {}"
     initial_state:
       length: 23
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: Sq8AexvTo/79Je8gAm/II2x0tWEHbvhqDB3qd3GWvob8AF5DcF8tJXWDKwiLDFlr
-  - offset: 161
-    length: 48
+  - offset: 164
+    length: 50
     placeholder_text: TODO()
     initial_state:
       length: 6

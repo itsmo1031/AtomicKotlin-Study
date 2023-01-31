@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 113
+  - offset: 114
     length: 18
     placeholder_text: class Disinfectant
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: lOYuhvuWW6KQqiOp3BqWxFvUugvnNT5zCRcE3rF2IjRjwH45l4QXiySkdeixmpOs+P31WIR0ZK1v6MJQXybhz5vs/XAALHpdf83Rxn0OKszgynJ6jXhMHLkznf1FFBdH
-  - offset: 146
-    length: 212
+  - offset: 147
+    length: 248
     placeholder_text: |-
       /*
         val disinfectant = Disinfectant()

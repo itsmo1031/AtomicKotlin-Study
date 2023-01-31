@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 81
+  - offset: 82
     length: 44
     placeholder_text: // import nestedClassesExercise1.Game.Mark.*
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: B2GXp0rWqVN8e1I4J8jIbPA7BKe84EGNOZDEras6c7w5Gwih5DQkZbgcCdPb6iWa
-  - offset: 194
+  - offset: 195
     length: 7
     placeholder_text: // TODO
     initial_state:

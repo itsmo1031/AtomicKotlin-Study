@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 588
+  - offset: 679
     length: 10
     placeholder_text: class Pipe
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: s6l2I19ev8xuN2BJx5Tysxgl6JKyfMX04HNuYUJ3CLRcfcflSG1BJxpez8/WqQqdF5X9IvYzyBrl5Ea54tkSocW1CQUzNTfdosCLsKGOFTPN3xSZsXA4eORPNcY9/PZfeuOuMg6qyWhMsecp/egaORu0No/ppP3zHpWmkAT3aY6RCwFKgl8/Tc1SWi0LgTEDHtx7nX0iluXjF0hfLqw9ehUxkV1ocWGz/9W8jDhSyvRo1OKtNwYT182wmM+4/x+i34laVCCrRuuNFGLTZCEZBWvZQzLykQBzg9M1OcOGcQSpaKYZCkdof3a8MFOKgTOd/NSVPkjN76LEoIsKj51D2DJ/oZ69Ae1MN0FSfJKznDcmedXvseegPIOeta0e+oyBjvSSvG/ptLUItFExY1HB99Jqe6k1L8Xzlb70a9c+Fds=
-  - offset: 613
-    length: 254
+  - offset: 704
+    length: 318
     placeholder_text: |-
       /*
         val pipe = Pipe()

@@ -1,9 +1,10 @@
 // SecondaryConstructors/Task1.kt
 package secondaryConstructorsExercise1
+
 import atomictest.eq
 
 data class Flower1(val type: String) {
-  // TODO add constructor
+    // TODO add constructor
 }
 
 data class Flower2(val type: String)

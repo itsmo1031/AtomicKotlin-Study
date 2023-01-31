@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 464
+  - offset: 489
     length: 18
     placeholder_text: class PlaceSetting
     initial_state:

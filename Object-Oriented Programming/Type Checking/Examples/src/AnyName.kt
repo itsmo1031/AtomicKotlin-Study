@@ -2,4 +2,4 @@
 package typechecking
 
 val Any.name
-  get() = this::class.simpleName
+    get() = this::class.simpleName

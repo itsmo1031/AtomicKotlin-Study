@@ -2,8 +2,8 @@
 package numberTypesExercise4
 
 fun convertToMilliseconds(hours: Int, minutes: Int, seconds: Int): Long =
-  (seconds+minutes*60L+hours*60L*60L)*1000L
+    (seconds + minutes * 60L + hours * 60L * 60L) * 1000L
 
 fun main() {
-  println(convertToMilliseconds(1, 30, 0))
+    println(convertToMilliseconds(1, 30, 0))
 }

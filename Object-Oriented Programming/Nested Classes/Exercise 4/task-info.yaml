@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 82
+  - offset: 84
     length: 39
     placeholder_text: // import nestedClassesExercise4.Seat.*
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: B2GXp0rWqVN8e1I4J8jIbKuNkEDn6B0aazfwcrd9xjbQY8U0RgSLAmmYWIjs/iYd
-  - offset: 123
+  - offset: 125
     length: 7
     placeholder_text: // TODO
     initial_state:

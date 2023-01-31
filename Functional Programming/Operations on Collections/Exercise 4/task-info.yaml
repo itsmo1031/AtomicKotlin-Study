@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 173
+  - offset: 174
     length: 6
     placeholder_text: ' /*?*/'
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
-  - offset: 186
+  - offset: 187
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
-  - offset: 224
+  - offset: 225
     length: 6
     placeholder_text: ' /*?*/'
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: GuugSsPTk+D5DaT2pSp7cw==
-  - offset: 236
+  - offset: 237
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -43,7 +43,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
-  - offset: 315
+  - offset: 316
     length: 6
     placeholder_text: ' /*?*/'
     initial_state:
@@ -53,7 +53,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: GuugSsPTk+D5DaT2pSp7cw==
-  - offset: 328
+  - offset: 329
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -63,7 +63,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
-  - offset: 363
+  - offset: 364
     length: 6
     placeholder_text: ' /*?*/'
     initial_state:
@@ -73,7 +73,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
-  - offset: 375
+  - offset: 376
     length: 6
     placeholder_text: TODO()
     initial_state:

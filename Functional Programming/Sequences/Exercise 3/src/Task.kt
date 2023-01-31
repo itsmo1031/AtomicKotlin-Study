@@ -2,4 +2,4 @@
 package sequencesExercise3
 
 fun School.averageInstructorRating(instructor: Instructor): Double =
-  TODO()
+    TODO()

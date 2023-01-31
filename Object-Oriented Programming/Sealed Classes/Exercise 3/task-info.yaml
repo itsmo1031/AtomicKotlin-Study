@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 111
+  - offset: 112
     length: 113
     placeholder_text: |-
       sealed class Top
@@ -18,8 +18,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: GwshfP82uLAQLEzEKJoJhBQH5FzkrB9k7zV+p2rnN4g3Iq406UHz7537Q/z/aJrKfO3ealKso46qJYWy3U5DKTUzFUsgjpTlvIBw9Oh7MUWvCHmQHAVoIzyWeZ4KC3MdBDGPvGJrRoSzHaaVUj5Fl2XBslmZJuuUl2NMrAOpRJA=
-  - offset: 335
-    length: 33
+  - offset: 350
+    length: 35
     placeholder_text: // TODO display random subclasses
     initial_state:
       length: 33

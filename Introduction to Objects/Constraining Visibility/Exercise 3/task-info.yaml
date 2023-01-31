@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 347
-    length: 93
+  - offset: 385
+    length: 95
     placeholder_text: ""
     initial_state:
       length: 0
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: MBHVCxR23HYSaNnVtZLU1KqTiVO4JW5/Yp/umzOWgTYeDaLU20VFUazzmgfKLQADNiJzDmSjY9JaGYk8PPXpIyMii+BLtn+zcC+QgolaG/+0QNK8hGWj0ZcoP49f1ekaut76XqgxNI6scC9zIPjjn55X9JArwlVeoZ6r0uevoeWxBjPNaNKdic/hAxKukedCzP8Ratqqp3HfJMIwZV4Q86YfF+0Z7eift+VMmAxG+9M=
-  - offset: 518
-    length: 35
+  - offset: 566
+    length: 43
     placeholder_text: |-
       x += steps
         x = crossBoundary(x)
@@ -25,8 +25,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrr804UbLHYvpOerzczOppaxwQNueJhA9TzzQEDP5cRweiPqhd/9PZG0M60ikV2cdHY=
-  - offset: 634
-    length: 33
+  - offset: 700
+    length: 43
     placeholder_text: |-
       x -= steps
         x = crossBoundary(x)
@@ -37,8 +37,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrq4+6FOEUOICvtcDOoMcYzgMu2L6gaGyKevMnPDloKdYYxZ5aHUVEV0nHLIXGDuEYs=
-  - offset: 748
-    length: 33
+  - offset: 834
+    length: 43
     placeholder_text: |-
       y += steps
         y = crossBoundary(y)
@@ -49,8 +49,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrqqgx7EfqeBrwZw8n0YYUJ6hZKnGdfVEzJAz/ms8zktRCHrb/lV6R5YwLAzAAs7R6s=
-  - offset: 860
-    length: 33
+  - offset: 966
+    length: 43
     placeholder_text: |-
       y -= steps
         y = crossBoundary(y)

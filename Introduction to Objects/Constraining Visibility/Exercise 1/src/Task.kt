@@ -1,8 +1,8 @@
 // Visibility/Task1.kt
 package constrainingVisibilityExercise1
 
-class Alien(val name:String, val species:String, private var planet:String){
-    fun movePlanet(dest: String){
+class Alien(val name: String, val species: String, private var planet: String) {
+    fun movePlanet(dest: String) {
         planet = dest
     }
 
@@ -12,8 +12,8 @@ class Alien(val name:String, val species:String, private var planet:String){
 }
 
 fun main() {
-    val arthricia = Alien("Arthricia","Cat Person", "PurgePlanet")
-    val dale = Alien("Dale","Giant","Gearworld")
+    val arthricia = Alien("Arthricia", "Cat Person", "PurgePlanet")
+    val dale = Alien("Dale", "Giant", "Gearworld")
 
     println(arthricia)
     println(dale)

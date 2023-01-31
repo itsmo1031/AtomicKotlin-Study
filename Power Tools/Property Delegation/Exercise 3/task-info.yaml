@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 188
-    length: 40
+  - offset: 191
+    length: 42
     placeholder_text: // TODO getValue and setValue extensions
     initial_state:
       length: 40
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: BxSsovLwnTyCNcFEbE3iTIssqXotRUt7FzPIeXV66+ZFoamuXfsJDW+L87mHPsJxpM5I4ciAFk74fn1eGyW7l1AseEKKlUTv6Rnoq6syzk+WOUEAq0qdPkThb2xbgul3elxASnOU4ZOlzE8AHOm387G1POuQ/bGZTB8nn3862gyJI4kC45vp8FeDzMitqLwQeBkry/TK9a1HzhIWSXued+XzuwKS3CZwBHJxO2gQuxCb98LkvklNUusnDBMkx9G7TE1KjM1NVVUnYGnYc51GzfA5OulvJFUUzqiUlBq7XXs=
-  - offset: 248
-    length: 100
+  - offset: 253
+    length: 120
     placeholder_text: |-
       /*
         var strings by Holder<String>()
@@ -28,8 +28,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: RSIK9JLdVeNQYkMLQJduUjUWns6rZSdw8ZTNj8LV/BSvRLpajftAM3dDhFRUgIMyGVbnOKc5g79gS4+3f1Bkjna92i6ndLzIwkRJEkxtKMRaj1LMUFA/Whoj4Oo451vW
-  - offset: 365
-    length: 234
+  - offset: 390
+    length: 270
     placeholder_text: |-
       /*
         val x = Holders()

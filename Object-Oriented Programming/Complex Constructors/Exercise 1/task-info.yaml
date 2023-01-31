@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 95
+  - offset: 96
     length: 19
     placeholder_text: // TODO class Alien
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: oY59ZACVmKvVGXlt6GMu5U6I71FpFTQBXluh+BoEx6xQ9YdhDtvVVEu9YDhNQ2RGbOvazmQbcwllIKjym1echrxoqvHRRuybF6XZrMzRJghFyfMADyg1kGM/Bl+PAfMi
-  - offset: 129
-    length: 74
+  - offset: 130
+    length: 90
     placeholder_text: |-
       /*
         val alien = Alien("Pencilvester")

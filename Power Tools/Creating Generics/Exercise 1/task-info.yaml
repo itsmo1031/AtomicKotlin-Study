@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 101
+  - offset: 102
     length: 7
     placeholder_text: // TODO
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: x0BMX3wVf988cSfYNnoGUEk7eUWLtKGBfTFg1g6E5aRTaQUdmmtPg9adOo2eIUJeGS6EJiXzhqa/ruktGFVmNGL8N0UdrsgbqkGCEd2I7MGFQdydR/xWTE6vBc4/f8IIRWomnyVrqwCpYzFrkw+l9RYiy3H56V6N4AE+7RPRAfzLxFfj4esOcOpM4DMIjowE/SFsqL2OwAiG81Ug3/OmnAl1mbn7WidR7nrOKrbu3k9sDLhBAlyvhg8sHa1ITHcl
-  - offset: 123
-    length: 191
+  - offset: 124
+    length: 219
     placeholder_text: |-
       /*
         val s = itemIter("A", "B", "C")

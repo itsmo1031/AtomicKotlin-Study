@@ -1,5 +1,6 @@
 // SealedClasses/SealedEx3.kt
 package sealedClassesExercise3
+
 import atomictest.eq
 import kotlin.random.Random
 
@@ -10,8 +11,8 @@ open class Middle3 : Top()
 class Bottom3 : Middle3()
 
 fun main() {
-  Top::class.sealedSubclasses
-    .map { it.simpleName } eq
-    "[Middle1, Middle2, Middle3]"
-  // TODO display random subclasses
+    Top::class.sealedSubclasses
+        .map { it.simpleName } eq
+            "[Middle1, Middle2, Middle3]"
+    // TODO display random subclasses
 }

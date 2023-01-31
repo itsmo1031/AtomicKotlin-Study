@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 146
-    length: 21
+  - offset: 147
+    length: 23
     placeholder_text: TODO("???.flatten()")
     initial_state:
       length: 21

@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 114
+  - offset: 115
     length: 9
     placeholder_text: interface
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: uflqW7j9sTW6AX27UVaN9A==
-  - offset: 135
-    length: 3
+  - offset: 136
+    length: 5
     placeholder_text: fun
     initial_state:
       length: 3
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: ztbGeTgPYvJZ7jDObEl0Hg==
-  - offset: 164
-    length: 3
+  - offset: 167
+    length: 5
     placeholder_text: fun
     initial_state:
       length: 3
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: ztbGeTgPYvJZ7jDObEl0Hg==
-  - offset: 209
+  - offset: 214
     length: 6
     placeholder_text: Insect
     initial_state:
@@ -43,7 +43,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: SevqUjl6wd7zal3X0IlVIw==
-  - offset: 230
+  - offset: 235
     length: 6
     placeholder_text: Insect
     initial_state:
@@ -53,8 +53,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: SevqUjl6wd7zal3X0IlVIw==
-  - offset: 376
-    length: 46
+  - offset: 392
+    length: 88
     placeholder_text: |-
       if (this is Flea)
           crawl()
@@ -67,8 +67,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: xJpd1TYUDtaTr+D+ADavcIuezfZsLh+CowR0Z26x0kns5IVblxgIal+1kVfxIGJcqvFf3yI4yONhekecYKcH6A==
-  - offset: 434
-    length: 22
+  - offset: 492
+    length: 23
     placeholder_text: "SwimmingInsect: Insect"
     initial_state:
       length: 22
@@ -77,8 +77,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: gv5usMiAAcOcDETkJVSrHQ==
-  - offset: 501
-    length: 19
+  - offset: 562
+    length: 20
     placeholder_text: "WaterWalker: Insect"
     initial_state:
       length: 19
@@ -87,7 +87,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: WAl/hD7S4hNC0xiIBL/56g==
-  - offset: 593
+  - offset: 661
     length: 14
     placeholder_text: SwimmingInsect
     initial_state:
@@ -97,7 +97,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: wefjQ+hwRgCsXryM3578IlLloMsZxk8pGQlzK3HlST8=
-  - offset: 629
+  - offset: 697
     length: 11
     placeholder_text: WaterWalker
     initial_state:
@@ -107,7 +107,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: YbJoOhwzbElxXUShSockgvWdMprNr++Qx26wQgQ9Zx4=
-  - offset: 665
+  - offset: 733
     length: 27
     placeholder_text: "SwimmingInsect, WaterWalker"
     initial_state:

@@ -1,8 +1,9 @@
 // PropertyAccessors/Task2.kt
 package propertyAccessorsExercise2
+
 import atomictest.eq
 
-class Accessible(){
+class Accessible() {
     var mutable = ""
         get() {
             println("mutable:get")
@@ -20,11 +21,11 @@ class Accessible(){
 }
 
 fun main() {
-/*
-  val accessible = Accessible()
-  accessible.mutable = "abc"
-  accessible.readOnly eq "abc"
-*/
+    /*
+      val accessible = Accessible()
+      accessible.mutable = "abc"
+      accessible.readOnly eq "abc"
+    */
 }
 /* Expected output:
 mutable:set

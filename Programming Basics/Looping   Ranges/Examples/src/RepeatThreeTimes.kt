@@ -1,9 +1,9 @@
 // LoopingAndRanges/RepeatThreeTimes.kt
 
 fun main() {
-  for (i in 1..3) {
-    println("Hey $i!")
-  }
+    for (i in 1..3) {
+        println("Hey $i!")
+    }
 }
 /* Output:
 Hey 1!

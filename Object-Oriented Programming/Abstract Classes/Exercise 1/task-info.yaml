@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 79
+  - offset: 80
     length: 20
     placeholder_text: abstract class Shape
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: OnceJqCW5/YiaCY4JtaQHpIme2VlUbMYPmC40jGdsh6784wCGSiCHJ0koRJKdPUnmV6NoJNWtMGpsbR6mHDQTiWfoZfkvDjQ5D2g5mu6ta4=
-  - offset: 101
+  - offset: 102
     length: 12
     placeholder_text: class Circle
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 3irwnrkaSyjxibeMVpoGFQBgKsVYIO7YOBGgtg4LTnlm9CV6nSn+OWi95NnxdAXlfXtN5VSkUsAxuLGrju6HHsUi1wrkNR4R3+8pkHRgCBDIRif3Xnp09IcrAuhn3/imn/O1C8Ochpoem5qbM0prLy3sDy7J7FM8ib5CBJ3VKa0twrLAv2Ijp9O1RcHFfNTt
-  - offset: 115
+  - offset: 116
     length: 12
     placeholder_text: class Square
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 6Ld5SfGoxbs4ya4VG6c2gLGjufZaaHQJSO3mpmp4OXwu0InVlncOFvFEIGEdXU+uAyWbqv7n7hNAUnW8FXju/OfCj5CZGcxnuAH9bU8jSqHmHPYckpd+KGseFfqmCFKhpQ+KK2C8ye4T+8gcVPaDdKUoPmFm/004a5qCy3VJbad4oRwpZX9tBtm5+jW80zK7
-  - offset: 129
+  - offset: 130
     length: 14
     placeholder_text: class Triangle
     initial_state:
@@ -43,8 +43,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: lW3tefD5tTtGuZPdm3OSOncyxsguB1WYvA9cXIwEpzKsy4wvXsS0440kB352QP0SoIdpWwJoqFq8lDE6RPTwJ+IR+YDupZd4ssFyEd7Hsze7ebpM+46xMIiceeYagvJgSUsYgLExAEvtn+lO8D0ywXp+CvBLcZ5DcFanMBqwm6WhOoLN4tatz+EM31s5HkB4
-  - offset: 229
-    length: 68
+  - offset: 246
+    length: 84
     placeholder_text: |-
       /*
         shapes.forEach { it.draw() }

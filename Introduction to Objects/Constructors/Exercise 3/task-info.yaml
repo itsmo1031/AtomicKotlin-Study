@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 636
-    length: 57
+  - offset: 718
+    length: 63
     placeholder_text: /* Implement toString */
     initial_state:
       length: 24

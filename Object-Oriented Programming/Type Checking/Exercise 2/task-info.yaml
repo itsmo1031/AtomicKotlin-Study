@@ -7,7 +7,7 @@ files:
 - name: src/TaskA.kt
   visible: true
   placeholders:
-  - offset: 610
+  - offset: 623
     length: 27
     placeholder_text: // class DecomposableBottle
     initial_state:
@@ -17,8 +17,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: loL0yf4OLyL5SXoY4HoOaV4t/yPv4BEAuDpKhYy6pHwTiuDOzfosaZtch5t6fFY8
-  - offset: 997
-    length: 58
+  - offset: 1069
+    length: 66
     placeholder_text: // TODO return "Decomposition tank" for DecomposableBottle
     initial_state:
       length: 58
@@ -27,8 +27,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: o0wc5mORdWPBI27OpWQ3cZSu2/a7KwQEPgIxXp+V4hdk9Z6qhZpAb0h73fhYJHUL
-  - offset: 1202
-    length: 23
+  - offset: 1308
+    length: 27
     placeholder_text: // DecomposableBottle()
     initial_state:
       length: 23
@@ -42,7 +42,7 @@ files:
 - name: src/TaskB.kt
   visible: true
   placeholders:
-  - offset: 813
+  - offset: 834
     length: 27
     placeholder_text: // class DecomposableBottle
     initial_state:
@@ -52,8 +52,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: loL0yf4OLyL5SXoY4HoOaV4t/yPv4BEAuDpKhYy6pHwpZKEdvgnGQazz9YL+2NBYYtfE+8CsFvuYs9tXF3PxmCWm4FA0CpDP8o+oTDBJbJmtfG1URdLFcIZUFWmtxDpC
-  - offset: 969
-    length: 23
+  - offset: 1004
+    length: 27
     placeholder_text: // DecomposableBottle()
     initial_state:
       length: 23

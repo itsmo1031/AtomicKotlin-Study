@@ -1,5 +1,6 @@
 // SealedClasses/SealedSubclasses.kt
 package sealedclasses
+
 import atomictest.eq
 
 sealed class Top
@@ -9,7 +10,7 @@ open class Middle3 : Top()
 class Bottom3 : Middle3()
 
 fun main() {
-  Top::class.sealedSubclasses
-    .map { it.simpleName } eq
-    "[Middle1, Middle2, Middle3]"
+    Top::class.sealedSubclasses
+        .map { it.simpleName } eq
+            "[Middle1, Middle2, Middle3]"
 }

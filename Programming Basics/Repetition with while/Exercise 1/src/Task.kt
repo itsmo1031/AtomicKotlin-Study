@@ -2,14 +2,14 @@
 package repetitionWithWhileExercise1
 
 fun displayContent(str: String) {
-    var i=0
-    while (i<str.length){
+    var i = 0
+    while (i < str.length) {
         println(str[i++])
     }
 }
 
 fun main() {
-  displayContent("abc")
+    displayContent("abc")
 }
 /* Expected output:
 a

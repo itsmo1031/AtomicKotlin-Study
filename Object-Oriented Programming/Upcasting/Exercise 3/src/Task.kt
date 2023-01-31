@@ -1,50 +1,51 @@
 // Upcasting/Task3.kt
 package upcastingExercise3
+
 import atomictest.trace
 
 interface Fighter {
-  fun fight(): String
+    fun fight(): String
 }
 
 interface Swimmer {
-  fun swim(): String
+    fun swim(): String
 }
 
 interface Flyer {
-  fun fly(): String
+    fun fly(): String
 }
 
 open class ActionCharacter {
-  fun fight(): String = "ActionCharacter fight"
+    fun fight(): String = "ActionCharacter fight"
 }
 
 class Hero
 
 fun tryFight(x: Fighter) {
-  TODO()
+    TODO()
 }
 
 fun trySwim(x: Swimmer) {
-  TODO()
+    TODO()
 }
 
 fun tryFly(x: Flyer) {
-  TODO()
+    TODO()
 }
 
 fun doAction(x: ActionCharacter) {
-  TODO()
+    TODO()
 }
 
 fun main() {
-/*
-  val h = Hero()
-  tryFight(h) // Treat it as a Fight
-  trySwim(h) // Treat it as a Swim
-  tryFly(h) // Treat it as a Fly
-  doAction(h) // Treat it as an ActionCharacter
-*/
-  trace eq """
+    /*
+      val h = Hero()
+      tryFight(h) // Treat it as a Fight
+      trySwim(h) // Treat it as a Swim
+      tryFly(h) // Treat it as a Fly
+      doAction(h) // Treat it as an ActionCharacter
+    */
+    trace eq """
     ActionCharacter fight
     Hero swim
     Hero fly

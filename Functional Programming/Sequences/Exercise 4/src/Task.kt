@@ -2,4 +2,4 @@
 package sequencesExercise4
 
 fun School.favoriteInstructor(student: Student): Instructor? =
-  TODO()
+    TODO()

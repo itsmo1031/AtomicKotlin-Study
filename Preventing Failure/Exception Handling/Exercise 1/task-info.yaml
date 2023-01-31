@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 156
+  - offset: 157
     length: 25
     placeholder_text: // TODO exception classes
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: QX8JJO/rBdjOpvdd6GRoHDfy1+oImIp+PPhzsQEed39VsSIhWdI76pkd7glo/s2e9a1hUUISA+pHHeeumHRBeaYNV+GS8ep5PU1+Tl/tJ9WypVp7euTsjvoxT3Ai1WJ7U43fMYOeMy02BlqZb6EA002Y6yL8VwCFhKaviVWKXHD5mfkP01e4hqyNI9meC0JDetGJOvN21GY0WHhJ8I5pEJ1YLia/OUe5tNjgiXsa7OrVeXn4dZ2qWD3h+D7tzlCGSJT2T5mUM+navM1wMnArsbY+JTG0C4Gk+ksjfc2ertP33wvCtPGfOjYUG+Ruh3tPTxoIW58w93NquomCWZZsJN8ZBWFJD1TUACOgHEQ16iov67ptxoKRwoKwp/+GFw0PULCBSNZ839hS8yHHtwW8IeKuQDaDtblHNoqRdX8r88IkBmWnFIY8p3mZNycq/LjCnyzgO5LHsN1AFa5ninoCQ0xhi5JwESyVQmd3V5NJSd4Avo6pB6kIuI+nC75LHLL4
-  - offset: 296
-    length: 7
+  - offset: 301
+    length: 9
     placeholder_text: // TODO
     initial_state:
       length: 7
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: wBvxK9xE1FYfTPhgzYsLap3o/hiKRfx2fYXbtay+3MDJzm4HBmHY1Zx8q/lMRcs1Cx5itiRW3l4y8qGSErHicLsi2VezseiCWVuyY5B/KFv1XUk9fKLm4GGq66kLykWwimiG4Q5yWRAds0okHtlbcD89LTMSj+GI1XEWO2zLFbhu+HIiBbAWbiaKnIiroCiPEEkYVnJGsdX8/BC4aDp59gkI0e1Ar/oFkb6j9y7+Mev7JUhEtmxwQeADfWvu28NeF+X0Ig7f1PWgvlnR0yUjAySN9p+O/wYV4q3sbPIw4zfVA4RMOMaTsG0wMsR/mb/oYu+aVtte5gCv3v6T4bXbIiIX6SwC6YCbXjAASv4Wk0hWz+K+yHBvtKbPOWjnoYexqQ2ew2sOSoKqMhCResokkhuVm9vtb2MPSug8iLKojoblA6ssJZkLxjibnhRRBhnFRrxQjBgS2gyvlmZwcShmfw==
-  - offset: 475
-    length: 7
+  - offset: 489
+    length: 9
     placeholder_text: // TODO
     initial_state:
       length: 7

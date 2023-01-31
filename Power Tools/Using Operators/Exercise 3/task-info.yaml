@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 126
+  - offset: 127
     length: 24
     placeholder_text: "data class N(var n: Int)"
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: DHWpAl4u6c9i5OrXX4CTmAjp5jO+opI06hatOCNcIPZWwfV/i9+swScRkiT0mKlDfAWFkzWKkQ/mQWhQhoqt5i9w1BVtmO8FV5jzQie+6ONATk+WjPysa78Ffaktu6Tb8b9aegG1MkTO0LW2VtpdW1w4j6bYrZd8oNUDlKsEz63auioNimvIidm0rC2II6sM
-  - offset: 211
-    length: 6
+  - offset: 214
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6

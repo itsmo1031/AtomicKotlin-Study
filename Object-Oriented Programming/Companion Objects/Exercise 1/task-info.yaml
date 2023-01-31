@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 192
+  - offset: 199
     length: 7
     placeholder_text: // TODO
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: G/oEfQ4fJbhT7DZGz2Ki8YhtRUhTm+2zkKDfYAEe/aY+5zVg1cnlKTY0dn40WVWjJd3CWbDUQa2X8KU3QGUm6CixI/Gbhpe7cb5bA3bS6YMz5Y3rVtxmNRWwQQ+wzLHHNkbF+nyZyPRo4R4WMhC2FL7YjgOJAHBJZy4uLdKknGMr5g0IdrCnHs3MLuQCSvDBEvhKb+UHoyhTcKFmxypi53P3CdAKnUD9LNDPusLsIF7ftQiY684SpdC+bzoYql36uR1wYV28/EEYyPFXtiIhDfIueUZ7mDmWy+tHDhXvESN9z59z8VPKaI9mF31YNM2bykrduC7mB5RF6Sxw/hWn8dli8Kxox9ZybHriBZKSLhKIf0sdODNGC+YwFvUtpI2102cZCcAKbknDokLVoKsh+M4PgCqjKeesLRvUA6325UykpKF23Kw40buma9vAg1ClbYq20sI6IDre1gsGmxSAkjGxDetzZlWM9eZZ/uhuyFnWj60yR9eEe1tNSKBmpSjYl5j0zhXh93OeNWN7zQr8tVJ/yXvXLjI58ysHPgJo+z65cdXC6qnbQ54wSlVjph2ZdRx6/aMXo+79D/VDhvxiV/8uVrHy1OTjRoznv5MuX3F/uZ1qYwiB0f0NLOBKNYKWNjfrC0U9ERDiku0YyiYfRLmxOLCbC8CgUzcGyprjx3CmdWTwu2fblb1yb8k17Mf0cHGxBlqXXoes7X/CxEBc180UCL8mXdK5revCFTqRY/MwIe5QPeVrPDsn8hLhDfYdnLJC2eckSd12+AaTQdWzfk3n1H4UmJ5XDHzluen9BBuL3v8ozR7VfwbfW6lRJozTgZE8TOfv42kiXvQdUCkCxzbwe/5dXi7CZQwtpQfCrgs=
-  - offset: 216
-    length: 184
+  - offset: 223
+    length: 206
     placeholder_text: |-
       /*
       // Implementations are interchangeable:

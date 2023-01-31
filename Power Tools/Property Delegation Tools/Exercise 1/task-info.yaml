@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 108
+  - offset: 109
     length: 19
     placeholder_text: class Configuration
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: skPELydm8gT5Wh1dRyRgyPcDlTU+a0TVw5AHmP0rTwGYR3vvO1EU6eN5jcOJMxSalobGHieGaUqrcfXWdK1SP0b47QvW9551G0JAp7E1m/sUnGX0IrPs/sFcMM3nKBrTpHD4Fhdc6Y4M5G8h33s/k+ZNGkkABUIOTGqTZ/W0QkzTdy9UD3AjiJcBfIhr4PD6
-  - offset: 142
-    length: 329
+  - offset: 143
+    length: 381
     placeholder_text: |-
       /*
         val config = Configuration(mutableMapOf(

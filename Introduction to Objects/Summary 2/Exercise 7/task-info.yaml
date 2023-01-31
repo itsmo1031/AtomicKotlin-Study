@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 115
-    length: 184
+  - offset: 116
+    length: 210
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 2C17QYE8qLlYLpXbVgZdsVPnoCDrR7GjzVfqaxcTg/AAo3oI9sugGz6L4ZJgFDHM2r33ZzP1HO2HE2bHhmhG/QzMcHKOHYwC8Jabk2C7jhwRJn09nsUFP/lfKeGpMKxT47If0Huy7Wo9N+XbtjsjkXzISDfFvZhzfj7zrwULCDMAyUj3SZLKAH8fjmHWwGv5ng5sbhhyhT1ewFnBe4yzPMMIvu42P1aNI4L5mJLdlll3yMyJ8jXIAV5UdH9U4Kt2
-  - offset: 345
-    length: 191
+  - offset: 372
+    length: 216
     placeholder_text: TODO()
     initial_state:
       length: 6

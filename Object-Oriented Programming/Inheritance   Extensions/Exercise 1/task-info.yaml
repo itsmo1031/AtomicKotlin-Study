@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 562
-    length: 45
+  - offset: 583
+    length: 47
     placeholder_text: |-
       class CrocoDuck(
         val crocodile: Crocodile
@@ -16,7 +16,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: ZKsSnfBlJlakCs8LcEv4EYRSDdyXiCuEIB19GKVzqXGovablS+BBOZGhpFbVPFF5TA+fAjoXK+UVND5Ab5Ga+GY3ocxwRyJktzhTVgwbUgOVuVApD6CglvkdkHNvss+SMSiWMeHLm0/ZhLBAsn886Qxk8GmO7lBHivbkFQRT2ZeVOPLMPfiohcbN8MVsL8Cu
-  - offset: 662
+  - offset: 685
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -26,7 +26,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: Gb0lCfC79s7a0lA7HgDfe0Z0ND2PudF+H4ky412XX0k=
-  - offset: 731
+  - offset: 756
     length: 84
     placeholder_text: |-
       //  interactWithDuck(honestlyDuck)

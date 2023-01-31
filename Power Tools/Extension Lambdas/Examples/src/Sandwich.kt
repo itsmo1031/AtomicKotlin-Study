@@ -1,12 +1,13 @@
 // ExtensionLambdas/Sandwich.kt
 package sandwich
+
 import atomictest.eq
 
 open class Recipe : ArrayList<RecipeUnit>()
 
 open class RecipeUnit {
-  override fun toString() =
-    "${this::class.simpleName}"
+    override fun toString() =
+        "${this::class.simpleName}"
 }
 
 open class Operation : RecipeUnit()
@@ -23,39 +24,40 @@ class Swiss : Ingredient()
 class Mustard : Ingredient()
 
 open class Sandwich : Recipe() {
-  fun action(op: Operation): Sandwich {
-    add(op)
-    return this
-  }
-  fun grill() = action(Grill())
-  fun toast() = action(Toast())
-  fun cut() = action(Cut())
+    fun action(op: Operation): Sandwich {
+        add(op)
+        return this
+    }
+
+    fun grill() = action(Grill())
+    fun toast() = action(Toast())
+    fun cut() = action(Cut())
 }
 
 fun sandwich(
-  fillings: Sandwich.() -> Unit
+    fillings: Sandwich.() -> Unit
 ): Sandwich {
-  val sandwich = Sandwich()
-  sandwich.add(Bread())
-  sandwich.toast()
-  sandwich.fillings()
-  sandwich.cut()
-  return sandwich
+    val sandwich = Sandwich()
+    sandwich.add(Bread())
+    sandwich.toast()
+    sandwich.fillings()
+    sandwich.cut()
+    return sandwich
 }
 
 fun main() {
-  val pbj = sandwich {
-    add(PeanutButter())
-    add(GrapeJelly())
-  }
-  val hamAndSwiss = sandwich {
-    add(Ham())
-    add(Swiss())
-    add(Mustard())
-    grill()
-  }
-  pbj eq "[Bread, Toast, PeanutButter, " +
-    "GrapeJelly, Cut]"
-  hamAndSwiss eq "[Bread, Toast, Ham, " +
-    "Swiss, Mustard, Grill, Cut]"
+    val pbj = sandwich {
+        add(PeanutButter())
+        add(GrapeJelly())
+    }
+    val hamAndSwiss = sandwich {
+        add(Ham())
+        add(Swiss())
+        add(Mustard())
+        grill()
+    }
+    pbj eq "[Bread, Toast, PeanutButter, " +
+            "GrapeJelly, Cut]"
+    hamAndSwiss eq "[Bread, Toast, Ham, " +
+            "Swiss, Mustard, Grill, Cut]"
 }

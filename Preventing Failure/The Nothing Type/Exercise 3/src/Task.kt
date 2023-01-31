@@ -1,5 +1,6 @@
 // NothingType/NothingTypeSoln3.kt
 package theNothingTypeExercise3
+
 import atomictest.*
 
 private var _debug: Boolean = TODO()
@@ -7,21 +8,21 @@ private var _debug: Boolean = TODO()
 class Failure
 
 fun fail(msg: String): Nothing =
-  TODO()
+    TODO()
 
 fun debug(test: Boolean) {
-  TODO()
+    TODO()
 }
 
 fun main() {
-  debug(true)
-  capture {
+    debug(true)
+    capture {
+        debug(false)
+    } eq "Failure: debug() failed"
+    _debug = false
+    debug(true)
     debug(false)
-  } eq "Failure: debug() failed"
-  _debug = false
-  debug(true)
-  debug(false)
-  trace eq """
+    trace eq """
     debug(true) with _debug[true]
     debug(false) with _debug[true]
     debug(true) with _debug[false]

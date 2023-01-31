@@ -1,31 +1,32 @@
 // UsingOperators/UsingOperatorsSoln1.kt
 package usingOperatorsExercise1
+
 import atomictest.trace
 
 class DataMany
 
 fun all() {
-  TODO()
+    TODO()
 }
 
 fun firstHalf() {
-  TODO()
+    TODO()
 }
 
 fun secondHalf() {
-  TODO()
+    TODO()
 }
 
 fun interspersed() {
-  TODO()
+    TODO()
 }
 
 fun main() {
-  all()
-  firstHalf()
-  secondHalf()
-  interspersed()
-  trace eq """
+    all()
+    firstHalf()
+    secondHalf()
+    interspersed()
+    trace eq """
     1 2 3 4 5 6 7 8 9 10
     1
     10

@@ -1,6 +1,6 @@
 // HelloWorld/EmptyProgram.kt
 
 fun main() {
-  // Program code here ...
+    // Program code here ...
     println("Hello, world!")
 }

@@ -1,11 +1,12 @@
 // OperatorOverloading/Swearing.kt
 package operatoroverloading
+
 import atomictest.eq
 
 infix fun String.`#!%`(s: String) =
-  "$this Rowzafrazaca $s"
+    "$this Rowzafrazaca $s"
 
 fun main() {
-  "howdy" `#!%` "Ma'am!" eq
-    "howdy Rowzafrazaca Ma'am!"
+    "howdy" `#!%` "Ma'am!" eq
+            "howdy Rowzafrazaca Ma'am!"
 }

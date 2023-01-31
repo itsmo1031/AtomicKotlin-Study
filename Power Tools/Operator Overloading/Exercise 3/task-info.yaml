@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 103
+  - offset: 104
     length: 16
     placeholder_text: class Repository
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 3XqFnCqjdMJinF1Ls4wlhaQO5Y28iVEM1xVfqQr2mzSLwpHWixrVCEgz1iljEzS1sz1jxm8Tj2cI4fnf5rPZivxoF9XOXBQS9UYoNBWaWxGzjfkBuHLvSwYtJYrM4wSfyO1+jiWb/yaZt9Ujt5Novuy0Kzm2lD7pxJ4inH7oK0seY7bOhpoHD53rW+VdN2hYKpbuLrLR5V9FOhIs+6DHbX1HYlO4osclkbe/linQAjK3oHyMDZQmW+AdalUFAez0b9BQpZldKGS9WmeKORg+5ofY4+MQuKGgdkFHbS7x4Ayzvjbn2vUnAAMuk3+Y48oS8zpD5MlE89pcGvq07CFPuDwlRBvy5gWjIhy4GZzhh7NA5XAZRDCZFpXK6WUPdvHg+XmzTQPIomDFQwnQXMGx7MvRlqy3+A86gaT9/rZb229KNQZne29qM7otdlI1ugPsPsDpp35zVXZ6y/uoiwBIIkMI9R0NzMoQrqHjOYysDkaIQK1mPzSQSx6514uq1ckOkw0CI5pB3ePkSFuizy6LuBSXcXwbI3y+k/C3JKS7HjT8feaJFts0m1iqoPJPPaqXgy/M8q/uQG344qG9+90Il8YH3oolWTZYmjSq0mjApVYAFwMBOYyqJQGKRT4gzJ1MFpfVl5mPBlwTWxGtgR9jwJ9YkonZnoulZVJBkSBedAz0psWA09ZkBusie4ccGmckNquw9UO/EX9S7+WiNwwI+1Uvo8nySLx9Ryow9rFEEFBozmNOtxoNnevSFY/Sr37naz1zdlD7xmtnKDB+x2MH6Fp71+rHFA55Lb2xo7P6FenPIEiJLiBxRu8b4k9AmsusEDeNsa16TfC7wR6LbPdYEHshQ+8/G4K5XjpQmaQPLZJff6z/YOEVDnzj4p18vgloOLJNo4PcDk7GjBVymk6kUdlGjN/tP5v8rYlIga5tn9OIXrfKdKXeo+IGyrJFFQLCxJbqYULgdxGvUkyMM5Huvg==
-  - offset: 134
-    length: 839
+  - offset: 135
+    length: 983
     placeholder_text: |-
       /*
         val r = Repository<Int>(5)

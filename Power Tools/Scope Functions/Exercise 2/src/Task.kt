@@ -1,26 +1,27 @@
 // ScopeFunctions/Task2.kt
 package scopeFunctionsExercise2
+
 import classdelegation.SpaceShipControls
 import atomictest.*
 
 fun main() {
-  var velocity = 1
-  with(SpaceShipControls()) {
-    trace(forward(velocity))
-    TODO()
-    this
-  }.let {
-    TODO()
-    it
-  }.run {
-    TODO()
-    this
-  }.apply {
-    TODO()
-  }.also {
-    TODO()
-  }
-  trace eq """
+    var velocity = 1
+    with(SpaceShipControls()) {
+        trace(forward(velocity))
+        TODO()
+        this
+    }.let {
+        TODO()
+        it
+    }.run {
+        TODO()
+        this
+    }.apply {
+        TODO()
+    }.also {
+        TODO()
+    }
+    trace eq """
     forward 1
     right 1
     down 1

@@ -7,15 +7,15 @@ val inBoxCat: InBox<Cat> = inBoxAny
 val inBoxDog: InBox<Dog> = inBoxAny
 
 fun main() {
-  inBoxAny.put(Any())
-  inBoxAny.put(Pet())
-  inBoxAny.put(Cat())
-  inBoxAny.put(Dog())
+    inBoxAny.put(Any())
+    inBoxAny.put(Pet())
+    inBoxAny.put(Cat())
+    inBoxAny.put(Dog())
 
-  inBoxPet.put(Pet())
-  inBoxPet.put(Cat())
-  inBoxPet.put(Dog())
+    inBoxPet.put(Pet())
+    inBoxPet.put(Cat())
+    inBoxPet.put(Dog())
 
-  inBoxCat.put(Cat())
-  inBoxDog.put(Dog())
+    inBoxCat.put(Cat())
+    inBoxDog.put(Dog())
 }

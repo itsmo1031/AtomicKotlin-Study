@@ -1,31 +1,32 @@
 // LazyInitialization/PropertyOptions.kt
 package lazyinitialization
+
 import atomictest.trace
 
 fun compute(i: Int): Int {
-  trace("Compute $i")
-  return i
+    trace("Compute $i")
+    return i
 }
 
 object Properties {
-  val atDefinition = compute(1)
-  val getter
-    get() = compute(2)
-  val lazyInit by lazy { compute(3) }
-  val never by lazy { compute(4) }
+    val atDefinition = compute(1)
+    val getter
+        get() = compute(2)
+    val lazyInit by lazy { compute(3) }
+    val never by lazy { compute(4) }
 }
 
 fun main() {
-  listOf(
-    Properties::atDefinition,
-    Properties::getter,
-    Properties::lazyInit
-  ).forEach {
-    trace("${it.name}:")
-    trace("${it.get()}")
-    trace("${it.get()}")
-  }
-  trace eq """
+    listOf(
+        Properties::atDefinition,
+        Properties::getter,
+        Properties::lazyInit
+    ).forEach {
+        trace("${it.name}:")
+        trace("${it.get()}")
+        trace("${it.get()}")
+    }
+    trace eq """
     Compute 1
     atDefinition:
     1

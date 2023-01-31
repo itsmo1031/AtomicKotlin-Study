@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 70
-    length: 97
+  - offset: 71
+    length: 107
     placeholder_text: // add Boring2 class
     initial_state:
       length: 20
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 1FVE5SwAcez7GZJ5IdFJYSY0Gi1uZEKt1OaXQfcfD7JGw5YNOwCL8MBskEQn/Kuh3vBlbOYbO8MZAVx1vPRSljPzBzjhBV37dhVhN8kb2rgpveAICRTJCtnWD2lSncMjkrnODEYZ6fhCrZVUv0FnMQ==
-  - offset: 184
-    length: 85
+  - offset: 195
+    length: 95
     placeholder_text: TODO() // test Boring2
     initial_state:
       length: 22

@@ -1,25 +1,27 @@
 // LazyInitialization/LazyInitSoln2.kt
 package lazyInitializationExercise2
+
 import atomictest.*
 
 class Outer {
-  val s1: String = "TODO"
-  val s2: String = "TODO"
-  inner class Inner {
-    val si: String = "TODO"
-  }
+    val s1: String = "TODO"
+    val s2: String = "TODO"
+
+    inner class Inner {
+        val si: String = "TODO"
+    }
 }
 
 fun main() {
-  val o = Outer()
-  trace("Outer created")
-  val inner = o.Inner()
-  trace("Inner created")
-  trace("First access: inner.si:")
-  trace(inner.si)
-  trace("Second access: inner.si:")
-  trace(inner.si)
-  trace eq """
+    val o = Outer()
+    trace("Outer created")
+    val inner = o.Inner()
+    trace("Inner created")
+    trace("First access: inner.si:")
+    trace(inner.si)
+    trace("Second access: inner.si:")
+    trace(inner.si)
+    trace eq """
     Outer constructor
     Outer created
     Inner constructor

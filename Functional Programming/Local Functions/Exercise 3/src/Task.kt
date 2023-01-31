@@ -1,5 +1,6 @@
 // LocalFunctions/Task3.kt
 package localFunctionsExercise3
+
 import atomictest.eq
 
 fun createContainer(): Pair<(Int) -> Unit, () -> Int?> {

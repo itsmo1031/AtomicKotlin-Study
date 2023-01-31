@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 76
+  - offset: 77
     length: 22
     placeholder_text: abstract class Movable
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: T9ZYWna5HmPltdYfNsK6zC1syjf4erVEteomUZ5ZRso=
-  - offset: 126
+  - offset: 129
     length: 24
     placeholder_text: abstract class Sleepable
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: cMi9haO4MGJr1UXQ4VKKreK41lTLPFlV5j5GoBj4yMY=
-  - offset: 182
+  - offset: 187
     length: 37
     placeholder_text: "// class Sofa: Movable(), Sleepable()"
     initial_state:
@@ -33,8 +33,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: woBPM3Bx/aTzhGj94HUp+odo+UA28Ediflln4O+x3aA=
-  - offset: 234
-    length: 77
+  - offset: 239
+    length: 97
     placeholder_text: |-
       /*
         val sofa = Sofa()

@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 77
-    length: 25
+    length: 29
     placeholder_text: fun f() = 0
     initial_state:
       length: 11
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: zlWkxMHwv2h5508VdHJyXPlYlNoFxqkVSsJUq1OFOuU=
-  - offset: 104
-    length: 35
+  - offset: 108
+    length: 39
     placeholder_text: fun g() = ""
     initial_state:
       length: 12
@@ -23,7 +23,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: LcgZOFQjCsqY8HCtLCsLR8rvZDnanpSwBnM056l8vXjjzi8IQzi7B0HTSQhZEnHR
-  - offset: 141
+  - offset: 149
     length: 24
     placeholder_text: fun h() = '?'
     initial_state:
@@ -33,8 +33,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: bALBSH06A2cQDoH5TL8401AA5U2VOS7t+52uFtP3OXk=
-  - offset: 182
-    length: 128
+  - offset: 190
+    length: 141
     placeholder_text: TODO()
     initial_state:
       length: 6

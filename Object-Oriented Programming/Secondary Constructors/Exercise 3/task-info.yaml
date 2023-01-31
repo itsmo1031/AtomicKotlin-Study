@@ -7,8 +7,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 195
-    length: 312
+  - offset: 198
+    length: 334
     placeholder_text: |-
       class GardenItem(
           val name: String

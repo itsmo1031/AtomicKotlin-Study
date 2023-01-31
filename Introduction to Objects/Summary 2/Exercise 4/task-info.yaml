@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 135
-    length: 460
+  - offset: 136
+    length: 462
     placeholder_text: "// TODO: add Dictionary class"
     initial_state:
       length: 29

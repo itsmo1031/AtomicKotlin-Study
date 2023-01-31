@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 96
-    length: 121
+  - offset: 97
+    length: 134
     placeholder_text: |-
       class Outer {
         val s1: String = "TODO"

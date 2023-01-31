@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 366
+  - offset: 440
     length: 11
     placeholder_text: class Shelf
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 9K323PbE9srBBQcuhTyGAuf5zMoZTDfaYtceChGWmjgUnSoOQo4A/QrxpH9TGUXt
-  - offset: 379
+  - offset: 453
     length: 12
     placeholder_text: class Closet
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: zTQGI7dvFa27/MNMRcMv+U400itFcSc96hWGF24ClJGOnzKMN+gyiNh0hEX+OZV1G1O5Vc2ICgP1uveWEVs3Q8iJk8hVHZxtcNt+ZyZ2/6S34btHDghN+iEcWQ/VmYK7
-  - offset: 393
+  - offset: 467
     length: 12
     placeholder_text: class Toilet
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 20OcTV+OrcacAPMKMd3c7Rkw86jzz460SdKMq8iBoBRDJ/oC3WIgNU8KVCfo/pXV
-  - offset: 407
+  - offset: 481
     length: 10
     placeholder_text: class Sink
     initial_state:
@@ -43,7 +43,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 2wdDm1juG3/emnNI0EJ2g11VL4utssogIJCfozY955c=
-  - offset: 419
+  - offset: 493
     length: 14
     placeholder_text: class Bathroom
     initial_state:
@@ -53,7 +53,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: B/Z266K9Vqd2ABi/2NOQDwvDYZVaGTPw7fwJThbZ49YwVYTJGsiyV2AgYHeZMHoIq7RsV3EKZA8CuVTrhNnwgEm5O5kHbpMnDPEm68cyNniHoqUI40wXdAOmvsfkknp+
-  - offset: 435
+  - offset: 509
     length: 13
     placeholder_text: class Bedroom
     initial_state:
@@ -63,8 +63,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: BchhsDon6YuGuyFr3xA/LfzV0vJ6W7g8ainlAJd+ZcR8pRL5a0oOoWTtDfVY5W0Va+6B8A0rrrae3SnX4KD/u4+JUKI1TGepk9Ifrqj4h/fXRnP7O9bLH70bx6MT6fBrWkY7XECZ7IOiQVoDVIJKaQ==
-  - offset: 487
-    length: 8
+  - offset: 561
+    length: 10
     placeholder_text: /*TODO*/
     initial_state:
       length: 8

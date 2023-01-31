@@ -1,14 +1,15 @@
 // Recursion/Task1.kt
 package recursionExercise1
+
 import atomictest.*
 
 tailrec fun simulation(group: String, level: Int) {
-  TODO()
+    TODO()
 }
 
 fun main() {
-  simulation("FOO", 10)
-  trace eq """
+    simulation("FOO", 10)
+    trace eq """
     Simulation: FOO Reality: 10
     Simulation: FOO Reality: 9
     Simulation: FOO Reality: 8

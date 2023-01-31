@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 67
-    length: 40
+    length: 44
     placeholder_text: |-
       println("Hello,")
         println("Kotlin!")

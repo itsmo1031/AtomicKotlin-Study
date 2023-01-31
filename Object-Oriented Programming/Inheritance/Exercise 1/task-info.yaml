@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 99
-    length: 34
+  - offset: 100
+    length: 36
     placeholder_text: // TODO add property and functions
     initial_state:
       length: 34
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: ggYbXQ7jWRycLIWxAMzTgdPTwxxOeIeuiSZqPkXi8X8bj9rSYGegeisHIe/Jex2PD9H+DP6oYQLZgA9wdAAr0W3tYGU7+rnmgUto7u1KqgRuZweXyYdeWrZKMxyBmczl0WrT5u0DdOxOd0x8RNlCoBUoW8znQNsJF3hfJoKadK2nO9ntSTOMgzFTUJHDKvizUtxJF7oKf9lV8hePcZbTNA==
-  - offset: 185
-    length: 154
+  - offset: 188
+    length: 186
     placeholder_text: |-
       /*
         val detergent = Detergent()

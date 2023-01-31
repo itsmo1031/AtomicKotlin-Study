@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 119
-    length: 7
+  - offset: 122
+    length: 11
     placeholder_text: // TODO
     initial_state:
       length: 7
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: pxY59tA+YKJEWbpN941YN0O6ZIH9etS+z2Ac4Q+1sFY=
-  - offset: 139
+  - offset: 151
     length: 13
     placeholder_text: = B() // TODO
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: gIgUDbHBC5Y4JiAg0KdZbKR7yobEsrZOR/bFyC7E/H0G+C3Dyk84Itx9tjIHga74MXOvuRPImibaj2lyVebKtw==
-  - offset: 161
+  - offset: 175
     length: 11
     placeholder_text: = 1 // TODO
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: gIgUDbHBC5Y4JiAg0KdZbKR7yobEsrZOR/bFyC7E/H28WefejIFHS5A6tanIPj2kf4YM5eCmAQ4V9Ql1hZVTyA==
-  - offset: 185
+  - offset: 201
     length: 9
     placeholder_text: 0 // TODO
     initial_state:
@@ -43,8 +43,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 53HV3bMe/zqFTwNI52OSmg==
-  - offset: 221
-    length: 7
+  - offset: 239
+    length: 11
     placeholder_text: // TODO
     initial_state:
       length: 7
@@ -53,7 +53,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: hZfeWDvmGY4n7BezBc/o4ss8wVKAW+4+oxQm3EznszU=
-  - offset: 241
+  - offset: 268
     length: 11
     placeholder_text: = 2 // TODO
     initial_state:
@@ -63,7 +63,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: gIgUDbHBC5Y4JiAg0KdZbKR7yobEsrZOR/bFyC7E/H0O9BLWc+H1kP251cnK1+kbms+4OvU/WLgFwnm3jkPrig==
-  - offset: 265
+  - offset: 294
     length: 9
     placeholder_text: 0 // TODO
     initial_state:
@@ -73,7 +73,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 6YRE6pDeOGtIKcPkglg5aw==
-  - offset: 299
+  - offset: 330
     length: 13
     placeholder_text: = A() // TODO
     initial_state:

@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 100
+  - offset: 101
     length: 7
     placeholder_text: // TODO
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: l1jSMoq1J5UGOVkdIt1QVA/vI05TDYvs/hpTwGvSosxWwyLks7AUYl/ujZMi+fnMo460mqfVVxTwpVNQmS2PuNUxRGI3YVzPpQuPUGcuAMSFgSxRi7KTd+jok1c0c4V8nINCdsXYyadnNqw6Jh31c0C1vE4/fOqOzvgUWZekAen4CWYY47S4ND1w+7iosJdJLVCWkE/ifRcORTeMOVYZXIBt2YXIGxTBLVCKJhO+CAlWSR1QHiTOTpW3uiYczd4GvH1G6xTm3XfMr9b0ocj16IRoHWBsNkDrLAzut1kYCiVYJEM3No2WM+yunNweZBuw4nHTaaXxB4BfJzlBkQN8+g==
-  - offset: 122
-    length: 208
+  - offset: 123
+    length: 240
     placeholder_text: |-
       /*
         val catBox: Box<Cat> = Box(Cat())

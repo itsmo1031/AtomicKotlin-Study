@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 138
-    length: 33
+  - offset: 139
+    length: 35
     placeholder_text: // TODO add secondary constructor
     initial_state:
       length: 33
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 7tTYoZU5dbkgumbkX52GqmhSJ2ouTRmu9WMXTLU5satZcVfwbfy8AtQ5eGy2Wo09HOmZZnTLtT5nFOOKTIEjK32dkoCU+3uUZNoyD12PFdw=
-  - offset: 266
+  - offset: 279
     length: 74
     placeholder_text: |-
       //    SpaceShip("MClass", 29321) eq

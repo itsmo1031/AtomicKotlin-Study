@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 592
+  - offset: 617
     length: 12
     placeholder_text: class Dragon
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: L7LZwyI+OodkJUijOMPIqn30x2aGBCG3/nImabk8qQVmAN5DgwaqCkwzgbLIq3oJHYnoyiqc/jBalXiVdAxTsFGjVPaDSCcGpsgI4VmXEec=
-  - offset: 606
+  - offset: 631
     length: 12
     placeholder_text: class Wizard
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: pYYrSfNRbmQVSanqDaPBxg2JRKl0U5VDsxWnTLGOHpUFwOHColS8ok6gITdfTpPfX16MsG+15ezqSfyCBGVHYUzBeDTN3Pf3jJHEaqU7KPbWJorXq75XHUWKNvdszHXQXmDJGZL8B7XtO6PFWqxCdg==
-  - offset: 774
+  - offset: 823
     length: 6
     placeholder_text: TODO()
     initial_state:

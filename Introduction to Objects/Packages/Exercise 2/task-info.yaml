@@ -7,7 +7,7 @@ files:
 - name: src/bbb.kt
   visible: true
   placeholders:
-  - offset: 31
+  - offset: 32
     length: 47
     placeholder_text: // TODO
     initial_state:
@@ -23,7 +23,7 @@ files:
   visible: true
   placeholders:
   - offset: 32
-    length: 117
+    length: 119
     placeholder_text: // TODO
     initial_state:
       length: 7
@@ -37,7 +37,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 33
+  - offset: 34
     length: 12
     placeholder_text: // TODO
     initial_state:
@@ -47,8 +47,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: w5UoU862OSkBj+5AEwhLRQ==
-  - offset: 62
-    length: 13
+  - offset: 63
+    length: 15
     placeholder_text: // TODO
     initial_state:
       length: 7

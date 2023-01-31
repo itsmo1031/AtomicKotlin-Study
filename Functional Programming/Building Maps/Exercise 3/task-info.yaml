@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 146
-    length: 24
+  - offset: 147
+    length: 26
     placeholder_text: TODO("groupBy(???).???")
     initial_state:
       length: 24

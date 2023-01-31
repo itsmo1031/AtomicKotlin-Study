@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 53
-    length: 105
+    length: 109
     placeholder_text: // isValidCharacter
     initial_state:
       length: 19
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: bn8ZGZ3pQVmKv9p+91IalJSTd5R6uY1n/xCJAHv1v/vPvj4Ud5Y8GHrxjruQPQiM3RTpnQfsVMPAdkQvvZFaRGV6qlqV7PxiUhMys9IICDSuNKZE4I1hEnWFtgQcxV0JBpSYrNP1Lvfwn3ooDrHi7Q==
-  - offset: 206
-    length: 136
+  - offset: 210
+    length: 155
     placeholder_text: TODO()
     initial_state:
       length: 6

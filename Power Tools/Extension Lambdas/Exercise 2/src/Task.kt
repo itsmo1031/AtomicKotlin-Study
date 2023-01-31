@@ -1,14 +1,15 @@
 // ExtensionLambdas/ExtensionLambdasSoln2.kt
 package extensionLambdasExercise2
+
 import sandwich.*
 import atomictest.eq
 
 fun sandwich2(): Sandwich {
-  TODO()
+    TODO()
 }
 
 fun sandwich3(): Sandwich {
-  TODO()
+    TODO()
 }
 
 /*

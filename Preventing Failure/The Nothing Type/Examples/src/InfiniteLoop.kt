@@ -2,5 +2,6 @@
 package nothingtype
 
 fun infinite(): Nothing {
-  while (true) {}
+    while (true) {
+    }
 }

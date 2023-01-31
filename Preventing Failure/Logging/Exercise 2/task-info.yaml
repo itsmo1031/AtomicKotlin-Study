@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 1272
-    length: 30
+  - offset: 1346
+    length: 34
     placeholder_text: println("Database Problem $e")
     initial_state:
       length: 30
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: BPrP/APd52Muua1Znakw8jwux3+mGGw9Q1ecm3597/M=
-  - offset: 1448
-    length: 179
+  - offset: 1554
+    length: 211
     placeholder_text: |-
       catch (e: NetworkFail) {
             println("Network Problem $e")
@@ -30,8 +30,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: GXEiIywzviP21ZdOQpXIhBpcmz3lJ1JrZsWC/tgQSlxrZFlyQwJzRf1NGZ5cwZAZ20p/D/qcRrJgYrUULioxTiDQ/cSR+XcCEWYHV7kE+Q8=
-  - offset: 1724
-    length: 34
+  - offset: 1882
+    length: 42
     placeholder_text: println("Network Close Failed $e")
     initial_state:
       length: 34
@@ -40,8 +40,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: BPrP/APd52Muua1Znakw8jwux3+mGGw9Q1ecm3597/M=
-  - offset: 1993
-    length: 30
+  - offset: 2223
+    length: 36
     placeholder_text: println("Database Problem $e")
     initial_state:
       length: 30

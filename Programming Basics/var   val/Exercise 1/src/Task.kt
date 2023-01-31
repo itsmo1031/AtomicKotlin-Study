@@ -4,6 +4,6 @@ package varAndValExercise1
 fun main() {
     var answer: Int = 42
     println(answer)
-    answer=43
+    answer = 43
     println(answer)
 }

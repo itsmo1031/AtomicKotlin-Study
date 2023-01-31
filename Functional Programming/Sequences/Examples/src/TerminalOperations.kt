@@ -3,12 +3,14 @@ import sequences.*
 import atomictest.*
 
 fun main() {
-  val list = listOf(1, 2, 3, 4)
-  trace(list.asSequence()
-    .filter(Int::isEven)
-    .map(Int::square)
-    .toList())
-  trace eq """
+    val list = listOf(1, 2, 3, 4)
+    trace(
+        list.asSequence()
+            .filter(Int::isEven)
+            .map(Int::square)
+            .toList()
+    )
+    trace eq """
     1.isEven()
     2.isEven()
     2.square()

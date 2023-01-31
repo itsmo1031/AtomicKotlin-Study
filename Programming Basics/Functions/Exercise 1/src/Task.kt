@@ -4,5 +4,5 @@ package functionsExercise1
 fun squareInt(i: Int): Int = i * i
 
 fun main() {
-  println(squareInt(2))  // 4
+    println(squareInt(2))  // 4
 }

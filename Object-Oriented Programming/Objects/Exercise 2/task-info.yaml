@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 137
-    length: 8
+  - offset: 144
+    length: 12
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: eQvyZQPKebsOdU7VDjpRo4aSHR5x6A9PHMyPT8ZnXtua6N6YvGpbYylTNZheDurFQCrE9seGPfvqtVdAwdy4nA==
-  - offset: 226
-    length: 8
+  - offset: 245
+    length: 12
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: eQvyZQPKebsOdU7VDjpRox9bMehPWVbBwOFfKHPy6XVNyJF8MVdPkrdwAYKDWaMgTJWSrIGks+fzLOWwIzGI6g==
-  - offset: 347
-    length: 121
+  - offset: 392
+    length: 129
     placeholder_text: |-
       /* Outer.Nested.Nested.a eq
           "Outer.Nested.Nested.a"

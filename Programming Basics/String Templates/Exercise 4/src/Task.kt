@@ -5,5 +5,5 @@ package stringTemplatesExercise4
 fun bar() = 1
 
 fun main() {
-  println(bar())
+    println(bar())
 }

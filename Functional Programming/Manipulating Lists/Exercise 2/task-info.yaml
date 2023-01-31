@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 142
-    length: 26
+  - offset: 143
+    length: 28
     placeholder_text: "TODO(\"mapIndexed { ??? }\")"
     initial_state:
       length: 26

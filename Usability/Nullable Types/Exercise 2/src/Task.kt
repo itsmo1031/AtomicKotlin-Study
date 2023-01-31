@@ -1,10 +1,13 @@
 // NullableTypes/Task2.kt
 package nullableTypesExercise2
 
-// fun zilch()
-// fun zilch2()
+fun zilch(): String? = null
+fun zilch2(): String? = zilch()
 
 fun main() {
-  // var x
-  // var y
+    val x = zilch()
+    val y = zilch2()
+
+    println(x)
+    println(y)
 }

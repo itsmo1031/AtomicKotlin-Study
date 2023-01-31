@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 103
-    length: 7
+  - offset: 104
+    length: 9
     placeholder_text: // TODO
     initial_state:
       length: 7
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: v3Ls/55yjHF2MO8wX7nC0rndit+Oq8+HsHNJjzOODqTkhH0cX56EEnXOO9/Efoybcbos/08ZJB/Z0rIBVv4I1g==
-  - offset: 136
+  - offset: 141
     length: 6
     placeholder_text: '"TODO"'
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: S91URtOzX3tsp1u0B3bS+N0xAljhQNfxf6Z+2rBog2w=
-  - offset: 174
+  - offset: 181
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -33,7 +33,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 67UfJMAkPIDuOmQMCvOTJhBQxlr4ZYfnYDQTwD3TGmY=
-  - offset: 184
+  - offset: 191
     length: 13
     placeholder_text: class Failure
     initial_state:
@@ -43,8 +43,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 768kjuRvDeFQYT4Lyihfxoukk8lFRCCD0Yuu6RuL1mDXpcFoYCmfxuERGGD9GOqo
-  - offset: 234
-    length: 6
+  - offset: 241
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -53,8 +53,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 3V2PU45spW9rtNBLfze0faUTna8IL7hO3nH3kXo8CFj6I92VcpjbSvU1H4pIbxSd
-  - offset: 275
-    length: 6
+  - offset: 284
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -63,8 +63,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: aORSdI6LCon0Xry1hK8SlDCy8MzIypGXj3nqJM53DpOrSoBA2zIs5Za2COWjgGCQ
-  - offset: 314
-    length: 6
+  - offset: 325
+    length: 8
     placeholder_text: TODO()
     initial_state:
       length: 6

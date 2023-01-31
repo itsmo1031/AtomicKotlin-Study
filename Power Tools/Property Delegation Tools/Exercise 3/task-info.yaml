@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 178
+  - offset: 179
     length: 16
     placeholder_text: "fun observe() {}"
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: gRvJ4sAQ7SG3J4u+jYdRIE/Or8PqwHgOnzxuyRaNTU8d1rG3l43NUMpucXjXu0s/dDD+qX6L66v0mFuhVdXl/QZgKQSpvms7BnZGq1r183F2RC72TCDdrhqvO2soldXzI9+qN/0GZ8nf3wZd1EIPag==
-  - offset: 257
+  - offset: 260
     length: 36
     placeholder_text: "= \"\" // by observable(nm, ::observe)"
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: NCVs761WU8JxabLskwtCrPT6efWEMCWlh6MpYDBi7jc=
-  - offset: 306
+  - offset: 311
     length: 35
     placeholder_text: "= 0 // by observable(id, ::observe)"
     initial_state:

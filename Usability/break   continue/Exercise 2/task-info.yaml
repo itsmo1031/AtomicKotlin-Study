@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 215
+  - offset: 227
     length: 12
     placeholder_text: // add label
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 51S1qwF5ZI91Nx1FrnOMYQ==
-  - offset: 417
+  - offset: 453
     length: 12
     placeholder_text: // add label
     initial_state:

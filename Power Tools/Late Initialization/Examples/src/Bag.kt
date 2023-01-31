@@ -2,5 +2,5 @@
 package lateinitialization
 
 interface Bag {
-  fun setUp()
+    fun setUp()
 }

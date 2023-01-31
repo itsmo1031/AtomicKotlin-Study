@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 70
-    length: 105
+    length: 110
     placeholder_text: "fun displayContent() {}"
     initial_state:
       length: 23

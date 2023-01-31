@@ -2,14 +2,14 @@
 package repetitionWithWhileExercise2
 
 fun sum(number: Int): Int {
-  var i=1
-  var res=0
-  while (i<=number){
-    res+=i++
-  }
-  return res
+    var i = 1
+    var res = 0
+    while (i <= number) {
+        res += i++
+    }
+    return res
 }
 
 fun main() {
-  println(sum(10))  // 55
+    println(sum(10))  // 55
 }

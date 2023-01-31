@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 135
+  - offset: 136
     length: 5
     placeholder_text: x * x
     initial_state:
@@ -13,7 +13,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: ND0SQ74Rr+qPq0ekriCWpQ==
-  - offset: 194
+  - offset: 195
     length: 17
     placeholder_text: h / 2 * (x + y)
     initial_state:
@@ -23,8 +23,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: IE4VUcOuz/EDLJJIHeHpu6cIDGAMNTZeRAuGEmlm1xc=
-  - offset: 292
-    length: 52
+  - offset: 299
+    length: 59
     placeholder_text: // add more tests
     initial_state:
       length: 17

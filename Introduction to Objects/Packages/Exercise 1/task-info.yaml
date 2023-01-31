@@ -7,7 +7,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 47
+  - offset: 48
     length: 20
     placeholder_text: // TODO
     initial_state:
@@ -17,8 +17,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: E1SJj7jPmwPW/Y8TGBLEkvhMluWfGlsJNGvb19g9abGMTu8zUoYseRz9n43RCTsB
-  - offset: 84
-    length: 24
+  - offset: 85
+    length: 28
     placeholder_text: TODO()
     initial_state:
       length: 6

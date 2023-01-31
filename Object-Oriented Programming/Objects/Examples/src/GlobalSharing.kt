@@ -2,5 +2,5 @@
 package objectsharing
 
 object Shared {
-  var i: Int = 0
+    var i: Int = 0
 }

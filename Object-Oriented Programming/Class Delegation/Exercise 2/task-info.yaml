@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 566
-    length: 13
+  - offset: 587
+    length: 15
     placeholder_text: /* private */
     initial_state:
       length: 13
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: +iBVIwl2rySML4zTDKVBOg==
-  - offset: 613
+  - offset: 636
     length: 10
     placeholder_text: /* TODO */
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: I1tdVikgLF9j1J/BDJGwGDDwVtBr0oewBGn3oZ5yqwc=
-  - offset: 903
+  - offset: 938
     length: 22
     placeholder_text: honestlyDuck.crocodile
     initial_state:

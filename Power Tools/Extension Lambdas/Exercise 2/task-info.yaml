@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 119
-    length: 38
+  - offset: 120
+    length: 40
     placeholder_text: |-
       fun sandwich2(): Sandwich {
         TODO()
@@ -16,8 +16,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: ssscFEYJPIEpsYMxdieJGPiRB8MOqbJraBTFsvQEX2wpFsQXzYOFoBd8+LQREb8gtmwtz+E/jGywemyxrCRX3j3WQSXhe/LGxCG4tvjhv5SJzLLe2hrxMV9XKriOXVD1/r0fuTxNRgGvEIW4IbTjdwkSVNKUD+1w0O3l7DS4IyrvM7vpMl6FsIPljhvQnXXjRp2carX8YAcJ2lLmhjzkailBbB6W+994/ZaZCCVwg4k7APDY95CLVb9/bh6+KLpBqrr0tWOb7DioFXPV/crIJw==
-  - offset: 159
-    length: 38
+  - offset: 162
+    length: 40
     placeholder_text: |-
       fun sandwich3(): Sandwich {
         TODO()
@@ -29,7 +29,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: IcC4gc3oCkq3Yu2ALPF5fHRHpTHZ2yh6g0aIs3vrSLsW8ZJYQuyvEz5/H8728fRJOOs35yewhj9NmKl/MF/45D0qtLrPHGECto6hHy81qclsvq87f762OS0n4/TQROWip0TdmMJEpRBj/XgVp2s5nA==
-  - offset: 199
+  - offset: 204
     length: 539
     placeholder_text: |-
       /*

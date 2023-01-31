@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 93
-    length: 25
+  - offset: 94
+    length: 27
     placeholder_text: // private val arrayDeque
     initial_state:
       length: 25
@@ -13,7 +13,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: o8Oc+LWy8+5NA6H9dWR4qXJYrByv6vECF2EcCgMiEjB7Vl0Egs9nvwKB58oYuxmt
-  - offset: 137
+  - offset: 142
     length: 6
     placeholder_text: '"TODO"'
     initial_state:
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: J1teQyqp6f1Cwpg7T3c+yHLBZvHs7qFCLq29SfWcClA=
-  - offset: 162
+  - offset: 169
     length: 6
     placeholder_text: TODO()
     initial_state:

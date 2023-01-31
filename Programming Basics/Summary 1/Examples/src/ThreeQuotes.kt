@@ -6,7 +6,7 @@ fun json(q: String, a: Int) = """{
 }"""
 
 fun main() {
-  println(json("The Ultimate", 42))
+    println(json("The Ultimate", 42))
 }
 /* Output:
 {

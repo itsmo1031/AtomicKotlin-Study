@@ -3,7 +3,7 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 88
+  - offset: 89
     length: 17
     placeholder_text: class CountingSet
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: sajxz5Zrr/bgeS02XwewtfkTxy1elYT9796BP5T5k56wOJr9bive4OrE/j2uw7n/LMrtLF1itzygSAi2Kygr/WXoStpTpNE85BmUCUUTXHKJ+hY7zph18IPVI/HX/lfht4kcORavU4Eku+SnsOGRyCLxUC2yg734fX8yUx7FyaLSiCMDl2fOvQUgxWonxVS8Y61OpxQVC+hMLk4212gyjeKBmiqfEWAz9wif2LVL0PGgyTpVIezoN5wWuTmVKg5uNVClGY1lObl9gv61sqhjojmI5xCO2jmj2dco0z+NoKDDIKtEqnXUDYXhzzMAf46V
-  - offset: 120
-    length: 155
+  - offset: 121
+    length: 191
     placeholder_text: |-
       /*
         val cs = CountingSet<String>()

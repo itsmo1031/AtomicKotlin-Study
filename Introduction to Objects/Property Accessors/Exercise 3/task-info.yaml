@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 87
-    length: 243
+  - offset: 88
+    length: 245
     placeholder_text: "// TODO: create class MessageStorage"
     initial_state:
       length: 36
