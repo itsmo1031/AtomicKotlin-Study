@@ -3,16 +3,23 @@ package introductionToGenericsExercise3
 
 import atomictest.eq
 
-class CountingSet
+class CountingSet<E> {
+    private val countSet = mutableMapOf<E, Int>()
+    fun add(element: E) {
+        countSet[element] = countSet.getOrDefault(element, 0) + 1
+    }
+
+    fun count(element: E) = countSet.getOrDefault(element, 0)
+
+    fun toSet() = countSet.keys
+}
 
 fun main() {
-    /*
-      val cs = CountingSet<String>()
-      cs.add("abc")
-      cs.add("abc")
-      cs.add("def")
-      cs.count("abc") eq 2
-      cs.count("def") eq 1
-      cs.count("xyz") eq 0
-    */
+    val cs = CountingSet<String>()
+    cs.add("abc")
+    cs.add("abc")
+    cs.add("def")
+    cs.count("abc") eq 2
+    cs.count("def") eq 1
+    cs.count("xyz") eq 0
 }
