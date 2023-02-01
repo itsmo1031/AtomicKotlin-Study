@@ -4,7 +4,7 @@ package operationsOnCollectionsExercise2
 import atomictest.eq
 
 val operation = { x: Int ->
-    TODO()
+    x in 10..99
 }
 
 fun main() {
