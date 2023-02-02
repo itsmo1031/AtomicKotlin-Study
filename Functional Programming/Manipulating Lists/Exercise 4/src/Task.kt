@@ -12,7 +12,13 @@ class Person(
 }
 
 fun friendSuggestions(person: Person): Set<Person> {
-    TODO()
+    val result = mutableSetOf<Person>()
+    person.friends.map {
+        it.friends.map { f ->
+            if (f !in person.friends && f != person) result.add(f)
+        }
+    }
+    return result
 }
 
 fun main() {

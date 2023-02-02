@@ -7,7 +7,9 @@ fun <T, R : Any> Iterable<T>.mapIndexedNotNull(
     transform: (Int, T) -> R?
 ): List<R> {
     val result = mutableListOf<R>()
-    TODO()
+    mapIndexed(transform).forEach {
+        if (it != null) result.add(it)
+    }
     return result
 }
 

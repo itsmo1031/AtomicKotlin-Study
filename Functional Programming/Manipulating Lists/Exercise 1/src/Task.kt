@@ -4,7 +4,7 @@ package manipulatingListsExercise1
 import atomictest.eq
 
 fun <T> List<T>.zipWithIndex(): List<Pair<T, Int>> =
-    TODO("zip(???)")
+    zip(0..size)
 
 fun main() {
     val list = listOf('a', 'b', 'c')

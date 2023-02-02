@@ -6,7 +6,7 @@ import atomictest.eq
 data class Person(val name: String, val age: Int)
 
 fun demographic(people: List<Person>): Map<Int, List<String>> {
-    TODO()
+    return people.groupBy(Person::age).mapValues { it.value.map(Person::name) }
 }
 
 fun main() {
