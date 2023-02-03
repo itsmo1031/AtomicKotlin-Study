@@ -6,7 +6,9 @@ import atomictest.eq
 fun fibonacci(): Sequence<Int> {
     var previous = 1
     return generateSequence(0) {
-        TODO()
+        val next = it + previous
+        previous = it
+        next
     }
 }
 

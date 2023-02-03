@@ -2,9 +2,10 @@
 package sequencesExercise7
 
 fun oddWithoutDigitOne(): Sequence<Int> {
-    TODO()
+    val oddNumbers = generateSequence(1) { it + 2 }
+    return oddNumbers.filterNot { it.toString().contains('1') }
 }
 
 fun main() {
-    TODO()
+    println(oddWithoutDigitOne().take(20).sum())
 }
