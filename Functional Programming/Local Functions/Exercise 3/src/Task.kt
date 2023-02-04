@@ -4,7 +4,15 @@ package localFunctionsExercise3
 import atomictest.eq
 
 fun createContainer(): Pair<(Int) -> Unit, () -> Int?> {
-    TODO()
+    val container = mutableListOf<Int>()
+
+    fun append(n: Int) {
+        container.add(n)
+    }
+
+    fun del() = container.removeLastOrNull()
+
+    return Pair(::append, ::del)
 }
 
 fun main() {

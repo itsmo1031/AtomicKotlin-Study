@@ -4,7 +4,11 @@ package recursionExercise2
 import atomictest.eq
 
 fun factorial(n: Long): Long {
-    TODO()
+    tailrec fun factorial(n: Long, acc: Long): Long {
+        return if (n == 1L) acc
+        else factorial(n - 1, acc * n)
+    }
+    return factorial(n, 1)
 }
 
 fun main() {

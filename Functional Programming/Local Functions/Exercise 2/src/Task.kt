@@ -4,7 +4,15 @@ package localFunctionsExercise2
 import atomictest.eq
 
 fun createCounter(): Pair<() -> Unit, () -> Int> {
-    TODO()
+    var counter = 0
+
+    fun inc() {
+        counter++
+    }
+
+    fun value(): Int = counter
+
+    return Pair(::inc, ::value)
 }
 
 fun main() {

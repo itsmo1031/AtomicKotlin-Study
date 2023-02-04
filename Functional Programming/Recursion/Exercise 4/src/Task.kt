@@ -2,6 +2,7 @@
 package recursionExercise4
 
 import atomictest.eq
+import breakAndContinueExercise3.usingContinue
 
 class City(val name: String) {
     val connections = mutableListOf<City>()
@@ -22,7 +23,13 @@ fun City.allReachableRecursive(): Set<City> {
     // Add all connections reachable
     // from 'current' city to 'connections' Set
     fun addConnectionsFrom(current: City) {
-        TODO()
+        if (current !in connections)
+            connections.add(current)
+        else return
+
+        current.connections.forEach {
+            addConnectionsFrom(it)
+        }
     }
 
     addConnectionsFrom(this)
@@ -41,7 +48,12 @@ fun City.allReachableIterative(): Set<City> {
     // - Add it to 'connections'
     // - Mark all its connections as 'to be analyzed'
     while (toBeAnalyzed.isNotEmpty()) {
-        TODO()
+        val current = toBeAnalyzed.first()
+        toBeAnalyzed.remove(current)
+
+        if (current in connections) continue
+        connections.add(current)
+        toBeAnalyzed.addAll(current.connections)
     }
     return connections
 }

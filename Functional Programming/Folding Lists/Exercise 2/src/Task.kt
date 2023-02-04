@@ -4,7 +4,7 @@ package foldingListsExercise2
 import atomictest.eq
 
 fun <T> List<T>.count(predicate: (T) -> Boolean): Int =
-    TODO("fold(???) { ??? }")
+    filter { predicate(it) }.fold(0) { cnt, _ -> cnt + 1 }
 
 fun main() {
     val list = listOf(1, -2, 3)
