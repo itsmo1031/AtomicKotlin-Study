@@ -29,7 +29,17 @@ open class Custom {
     }
 }
 
-class PlaceSetting
+class PlaceSetting : Custom() {
+    val spoon = Spoon()
+    val fork = Fork()
+    val knife = Knife()
+    val dinnerPlate = DinnerPlate()
+
+    init {
+        trace("PlaceSetting")
+    }
+
+}
 
 fun main() {
     PlaceSetting()
