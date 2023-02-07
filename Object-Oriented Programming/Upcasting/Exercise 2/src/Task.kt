@@ -7,13 +7,25 @@ interface Apple {
     fun consume(): String
 }
 
-class GrannySmith
+class GrannySmith : Apple {
+    override fun consume() =
+        "chomp GrannySmith"
+}
 
-class Gala
+class Gala : Apple {
+    override fun consume() =
+        "bite Gala"
+}
 
-class Fuji
+class Fuji : Apple {
+    override fun consume() =
+        "press Fuji"
+}
 
-class Braeburn
+class Braeburn : Apple {
+    override fun consume() =
+        "peel Braeburn"
+}
 
 fun main() {
     val apples = listOf(
@@ -22,7 +34,7 @@ fun main() {
         Fuji(),
         Braeburn()
     )
-    apples.map { TODO() } eq
+    apples.map { it.consume() } eq
             "[chomp GrannySmith, " +
             "bite Gala, press Fuji, peel Braeburn]"
 }

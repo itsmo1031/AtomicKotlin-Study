@@ -3,20 +3,20 @@ package abstractClassesExercise2
 
 import atomictest.eq
 
-abstract class Movable {
+interface Movable {
     fun move() = "move"
 }
 
-abstract class Sleepable {
+interface Sleepable {
     fun sleepOn() = "sleep"
 }
 
-// class Sofa: Movable(), Sleepable()
+class Sofa : Movable, Sleepable
 
 fun main() {
-    /*
-      val sofa = Sofa()
-      sofa.move() eq "move"
-      sofa.sleepOn() eq "sleep"
-    */
+
+    val sofa = Sofa()
+    sofa.move() eq "move"
+    sofa.sleepOn() eq "sleep"
+
 }

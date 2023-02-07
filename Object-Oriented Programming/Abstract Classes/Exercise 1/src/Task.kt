@@ -3,13 +3,40 @@ package abstractClassesExercise1
 
 import atomictest.trace
 
-abstract class Shape
+abstract class Shape {
+    abstract fun draw(): (Unit)
+    abstract fun erase(): (Unit)
+}
 
-class Circle
+class Circle : Shape() {
+    override fun draw() =
+        trace("Draw Circle")
 
-class Square
 
-class Triangle
+    override fun erase() =
+        trace("Erase Circle")
+
+}
+
+class Square : Shape() {
+    override fun draw() =
+        trace("Draw Square")
+
+
+    override fun erase() =
+        trace("Erase Square")
+
+}
+
+class Triangle : Shape() {
+    override fun draw() =
+        trace("Draw Triangle")
+
+
+    override fun erase() =
+        trace("Erase Triangle")
+
+}
 
 fun main() {
     val shapes = listOf(
@@ -17,10 +44,10 @@ fun main() {
         Square(),
         Triangle(),
     )
-    /*
-      shapes.forEach { it.draw() }
-      shapes.forEach { it.erase() }
-    */
+
+    shapes.forEach { it.draw() }
+    shapes.forEach { it.erase() }
+
     trace eq """
     Draw Circle
     Draw Square
