@@ -4,9 +4,9 @@ package compositionExercise3
 import atomictest.*
 
 class Queue<E> {
-    // private val arrayDeque
-    fun put(e: E) = "TODO"
-    fun poll(): E = TODO()
+    private val arrayDeque = ArrayDeque<E>()
+    fun put(e: E) = arrayDeque.add(e!!)
+    fun poll(): E = arrayDeque.removeFirst()
 }
 
 fun main() {

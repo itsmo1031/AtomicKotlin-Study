@@ -18,21 +18,25 @@ class ToyDog : Dog() {
 }
 
 fun Dog.play() {
-    TODO()
+    speak()
+    sit()
 }
 
 fun RealDog.play() {
-    TODO()
+    Dog().play()
+    feed()
 }
 
 fun ToyDog.play() {
-    TODO()
+    Dog().play()
+    changeBatteries()
 }
 
 fun main() {
     val dog: Dog = ToyDog()
     dog.play()
     trace eq """
-    TODO
-  """
+        b.a.r.k.
+        Sitting...
+    """
 }
